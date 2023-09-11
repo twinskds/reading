@@ -1,7 +1,7 @@
-
 # ETF에 배당을 복리로 지속적으로 투자를 할 경우
 ## 각 상세한 설명은 아래 사이트
-https://md2biz.tistory.com/8
+https://md2biz.tistory.com/8   
+
 설명을 이해하기 쉽게 잘 해주었기 때문에 각자 읽어보길 바란다.
 1. ETF란 무엇인가?
 2. ETF 레버리지의 단점 알아보기
@@ -9,7 +9,12 @@ https://md2biz.tistory.com/8
 4. ETF 종류별 세금 알아보기
 5. ETF 순자산가치와 지수의 추적오차 분석
 
-   
+ ## 월배당으로 1000만원 만들기 방법
+ https://stockdepartmentstore.tistory.com/entry/4%EB%85%84
+ 
+ 매월 50만원씩 배당금 재투자를 원칙으로 진행했을 때의 결과를 보면 20년 이면 
+
+ ## 본문 내용
 ![image](https://github.com/twinskds/2023-k-moc-New/assets/50890280/b5d450c5-86a9-46af-a30f-b1c07d2377fd)
 ![image](https://github.com/twinskds/2023-k-moc-New/assets/50890280/28f5fb48-170a-47c4-9fce-7917abf1ee2c)
 ![image](https://github.com/twinskds/2023-k-moc-New/assets/50890280/8fdf4871-9365-4750-ad16-9a5ed3982f0e)
